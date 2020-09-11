@@ -100,9 +100,9 @@ namespace HouseParty
                 {
                     while (true)
                     {
-                        FlickerLightsAsync(254);
+                        ExecuteFlicker(254);
                         Thread.Sleep(950);
-                        FlickerLightsAsync(0);
+                        ExecuteFlicker(0);
                         Thread.Sleep(950);
                     }
                 });
@@ -111,7 +111,7 @@ namespace HouseParty
             }
         }
 
-        private void FlickerLightsAsync(int _brightness)
+        private void ExecuteFlicker(int _brightness)
         {
             JObject _data = new JObject()
             {
