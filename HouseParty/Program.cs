@@ -101,9 +101,9 @@ namespace HouseParty
                     while (true)
                     {
                         FlickerLightsAsync(254);
-                        Thread.Sleep(1500);
+                        Thread.Sleep(950);
                         FlickerLightsAsync(0);
-                        Thread.Sleep(1500);
+                        Thread.Sleep(950);
                     }
                 });
 
