@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJE4mlZFDHDmMxl3I4XTNmQiN940Lc0kUlOX1QaOk69/h2wciZMkJaAWBqSMM2xj1+FM8i/JUoxcGuATIFKBWA==",
+  "success": true,
+  "projectFilePath": "D:\\_Programming\\HouseParty\\HouseParty\\HouseParty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\larsb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache
+D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CopyComplete
