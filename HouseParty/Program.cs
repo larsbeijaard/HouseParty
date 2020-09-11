@@ -4,6 +4,7 @@ using System.IO;
 using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
 namespace HouseParty
@@ -99,7 +100,7 @@ namespace HouseParty
                 {
                     while (true)
                     {
-                        FlickerLightsAsync(200);
+                        FlickerLightsAsync(254);
                         Thread.Sleep(1500);
                         FlickerLightsAsync(0);
                         Thread.Sleep(1500);
