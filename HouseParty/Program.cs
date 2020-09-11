@@ -100,9 +100,9 @@ namespace HouseParty
                     while (true)
                     {
                         FlickerLightsAsync(200);
-                        Thread.Sleep(2500);
+                        Thread.Sleep(1500);
                         FlickerLightsAsync(0);
-                        Thread.Sleep(2500);
+                        Thread.Sleep(1500);
                     }
                 });
 
@@ -132,6 +132,7 @@ namespace HouseParty
             try
             {
                 _client.UploadString(_url, "PUT", _data.ToString());
+                Logger($"Send API request to: {_url} with the following data: {_data}", LoggerMessageType.NOTE);
             }
             catch (Exception _e)
             {
