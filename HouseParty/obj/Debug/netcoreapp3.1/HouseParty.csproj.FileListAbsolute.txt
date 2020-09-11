@@ -11,5 +11,5 @@ D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
 D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
 D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache
 D:\_Programming\HouseParty\HouseParty\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
 D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CopyComplete
+D:\_Programming\HouseParty\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
